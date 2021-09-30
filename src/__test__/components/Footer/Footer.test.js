@@ -14,7 +14,7 @@ describe('Pruebas sobre el componente Footer', () => {
   });
 
   test('render del titulo', () => {
-    expect(wrapper.find('.Footer-title').text()).toEqual('Platzi Store');
+    expect(wrapper.find('.Footer-title').text()).toEqual('Platzi Store!!');
   });
 });
 
