@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Name of the group should be match to snapshot 1`] = `
+<div
+  className="Products-item"
+>
+  <img />
+  <div
+    className="Products-item-info"
+  >
+    <h2>
+      <span>
+        $
+      </span>
+    </h2>
+    <p />
+  </div>
+  <button
+    type="button"
+  >
+    Comprar
+  </button>
+</div>
+`;
